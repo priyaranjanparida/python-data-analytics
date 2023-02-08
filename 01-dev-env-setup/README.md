@@ -59,6 +59,6 @@ Another popular Python IDE.
 
 Visual Code is a very capable programmer's editor.  It has very nice python support.
 
-[Read instructions for VSCode](vscode-1.md)
+[Install instructions for VSCode](vscode-1-install.md)
 
-[Debugging with VSCode](vdcode-2.md)
+<!-- [Debugging with VSCode](vscode-2.md) -->

@@ -4,15 +4,15 @@
 1. Set a breakpoint on line 2 of hello.py by placing the cursor on the print call and pressing F9. 
     * Alternately, just click in the editor's left gutter, next to the line numbers. When you set a breakpoint, a red circle appears in the gutter.
 
-![](images/vscode-18.jpg)
+![](../assets/images/vscode-18.jpg)
 
 2. Select the Debug View in the left sidebar
 
-![](images/vscode-19.jpg)
+![](../assets/images/vscode-19.jpg)
 
 * If you don't yet have any configurations defined, you will see "No Configurations" in the drop-down list, and a dot on the settings icon
 
- ![](images/vscode-20.png)
+ ![](../assets/images/vscode-20.png)
 
 * A) Select the settings button (circled in the image above) or use the **Debug > Open configurations** menu command.
     * After a few moments, the command creates a launch.json file that contains a number of configurations, which appear in the configurations drop-down
@@ -20,17 +20,17 @@
 
 * B) In the Select Environment drop-down list that appears, select Python.
 
- ![](images/vscode-21.jpg)
+ ![](../assets/images/vscode-21.jpg)
 
  3. Save launch.json, switch to hello.py in the editor
 
  4. Run the debugger by selecting the arrow in the Debug toolbar or pressing F5
 
-  ![](images/vscode-22.jpg)
+  ![](../assets/images/vscode-22.jpg)
 
   * A debug toolbar appears along the top with the following commands from left to right: **continue (`F5`)**, **step over (`F10`)**, **step into (`F11`)**, **step out (`Shift+F11`)**, **restart (`Ctrl+Shift+F5`)**, and **stop (`Shift+F5`)**.
 
- ![](images/vscode-23.png)
+ ![](../assets/images/vscode-23.png)
 
  5. Add new file  **sample.py** and paste code below in it
 
@@ -59,7 +59,7 @@ def sum_function(x , y):
     * Type `var1` then press **Enter**
     * Press **step over (`F10`)** from debug toolbar at top
 
-![](images/vscode-24.jpg)
+![](../assets/images/vscode-24.jpg)
 
 7. Do the all above debugging `sample.py` steps and this time press **step into (`F11`)** instead of **step over (`F10`)** and see the result
 

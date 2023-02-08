@@ -13,7 +13,7 @@ code .
 2. Create a Python Hello World source code file
 From the `File Explorer` toolbar, click the `New File` button on the hello folder:
 
-![](images/vscode-05.jpg)
+![](../assets/images/vscode-05.jpg)
 
 
 
@@ -28,59 +28,59 @@ print(msg)
 
 * When you start typing print, notice how `IntelliSense` presents auto-completion options.
 
-![](images/vscode-06.png)
+![](../assets/images/vscode-06.png)
 
 
 Type msg.:
 
-![](images/vscode-07.png)
+![](../assets/images/vscode-07.png)
 
 
 Save the file (Ctrl+S).
 
 * Or checked **File > Auto Save** from menu to auto save changes.
 
-![](images/vscode-08.jpg)
+![](../assets/images/vscode-08.jpg)
 
 
 
 5. Select a Python interpreter
 Python is an interpreted language, and in order to run Python code and get Python IntelliSense, you must tell VS Code which interpreter to use.
 
-    * From within VS Code, select a Python 3 interpreter by opening the **Command Palette (Ctrl+Shift+P)**, start typing the **Python: Select Interpreter** command to search, then select the command.<p style="text-align:center;"><img src='images/vscode-09.jpg'></p>
+    * From within VS Code, select a Python 3 interpreter by opening the **Command Palette (Ctrl+Shift+P)**, start typing the **Python: Select Interpreter** command to search, then select the command.<p style="text-align:center;"><img src='../assets/images/vscode-09.jpg'></p>
 
-    * You can also use the **Select Python Environment** option on the Status Bar if available (it may already show a selected interpreter, too):<p style="text-align:center;"><img src='images/vscode-10.jpg'></p>
+    * You can also use the **Select Python Environment** option on the Status Bar if available (it may already show a selected interpreter, too):<p style="text-align:center;"><img src='../assets/images/vscode-10.jpg'></p>
 
 6. Enable linters
     * Linting highlights syntactical and stylistic problems in your Python source code, which oftentimes helps you identify and correct subtle programming errors or unconventional coding practices that can lead to errors.
 
     * To enable linters other than the default PyLint, open the Command Palette (Ctrl+Shift+P) and select the Python: Select Linter command. This command adds `"python.linting<linter>Enabled": true` to your settings, where `<linter>` is the name of the chosen linter. See Specific linters for details. 
     
-    ![](images/vscode-11.jpg)
+    ![](../assets/images/vscode-11.jpg)
 
     * Enabling a linter prompts you to install the required packages in your selected environment for the chosen linter.
     
-    ![](images/vscode-12.png)
+    ![](../assets/images/vscode-12.png)
 
     6. It's simple to run hello.py with Python. Right-click in the editor and select Run Python File in Terminal (which saves the file automatically):
-    ![](images/vscode-13.png)
+    ![](../assets/images/vscode-13.png)
 
      * The command opens a terminal panel in which your Python interpreter is automatically activated
-           ![](images/vscode-14.png)
+           ![](../assets/images/vscode-14.png)
 
      * There are two other ways you can run Python within VS Code
 
         * Select one or more lines, then press Shift+Enter or right-click and select Run Selection/Line in Python Terminal. This command is convenient for testing just a part of a file.
 
-        ![](images/vscode-15.jpg)
+        ![](../assets/images/vscode-15.jpg)
 
         *  Open terminal from **View > Terminal** menu. (Keyboard shortcut: Ctrl + ~)
 
-        ![](images/vscode-16.jpg)
+        ![](../assets/images/vscode-16.jpg)
 
 
 ```bash
 python hello.py
 ```
 
-![](images/vscode-17.jpg)
+![](../assets/images/vscode-17.jpg)

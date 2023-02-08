@@ -1,5 +1,6 @@
 # Spyder Setup
 
+<img src="../assets/images/spyder-logo-1.png" />
 
 ## Overview
 

@@ -1,6 +1,6 @@
  # Anaconda
  
- <img src="images/anaconda_logo.png" style="width:50;"/>
+ <img src="../assets/images/anaconda_logo.png" style="width:50;"/>
  
  [Anaconda](https://www.anaconda.com/) is a very popular python distribution and development environment.
  
@@ -36,7 +36,7 @@ $  conda activate pyds
 # make sure your prompt says "pyds"
 
 # install any extra packages by
-$   conda install  numpy pandas seaborn scikit-learn
+$   conda install  numpy pandas seaborn scikit-learn  jupyterlab
 
 # verify packages by 
 $   conda list
