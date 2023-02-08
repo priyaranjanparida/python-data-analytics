@@ -16,4 +16,5 @@ not-using/
 .ipynb_checkpoints
 *.pyc
 
+.spyproject
 
