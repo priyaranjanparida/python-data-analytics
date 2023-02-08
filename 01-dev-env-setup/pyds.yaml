@@ -1,0 +1,17 @@
+# install with `conda env create -f pyds.yaml`
+
+name: pyds
+channels:
+  - defaults
+  #- conda-forge
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - numpy
+  - memory_profiler
+  - seaborn
+  - tqdm
+  - flake8
+  - black

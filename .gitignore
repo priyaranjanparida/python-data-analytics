@@ -1,0 +1,19 @@
+## Generic
+*.zip
+*.out
+._DS_Store
+.DS_Store
+*.bin
+*.html
+not-using/
+*.txt
+*.gz
+*.csv
+*.idea
+
+
+## python 
+.ipynb_checkpoints
+*.pyc
+
+
