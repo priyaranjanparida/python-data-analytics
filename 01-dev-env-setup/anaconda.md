@@ -59,6 +59,18 @@ $   conda env create -f pyds.yaml
 $   conda env list
 ```
 
+To access the environment, activate it
+
+```bash
+$   conda activate  pyds
+```
+
+To end the environment, deactivate it
+
+```bash
+$   conda deactivate
+```
+
 To remove any conda environment
 
 ```bash

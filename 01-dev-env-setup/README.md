@@ -14,7 +14,7 @@ There are lot of options for developing in python.  Let's explore
    
 ## Where do I Start?
 
-<img src="images/simpson-any-key-1.png" style="width:50%;float:right;">
+<img src="../assets/images/simpson-any-key-1.png" style="width:50%;float:right;">
 
 You can certainly start with online environments.  They are very easy to use and required no setup.
 
@@ -47,6 +47,9 @@ This is the most popular setup
 
 [Read instructions for Anaconda setup](anaconda.md)
 
+### PyCharm
+
+[pycharm instructions](pycharm.md)
 
 ### Spyder
 
