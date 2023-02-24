@@ -10,6 +10,8 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 
 ### 02 - Testing the Dev Environment
 
+[Client Testing the Dev Environment](http://go/dataanalyticspython/#DataAnalyticswithPython-TestingtheDevEnvironment)
+
 * Jupyter Notebooks
     * 2.1 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
     * 2.2 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
