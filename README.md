@@ -32,6 +32,11 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 * 3.6 - [Functions](03-python-intro/06-functions.ipynb)
 * 3.7 - [Strings](03-python-intro/07-string.ipynb)
 
+### 04 - Numpy
+
+* 4.1 - [Numpy intro](04-numpy/numpy-1.ipynb)
+* 4.2 - Bonus - [Numpy exercises](https://github.com/elephantscale/guided-machine-learning/blob/master/python-data-analysis/np-1__numpy-intro.md)
+
 ## Resources
 
 * [Guided Machine Learning](https://github.com/elephantscale/guided-machine-learning) has a few good chapters in Data analytics
