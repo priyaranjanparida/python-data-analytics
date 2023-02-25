@@ -25,12 +25,14 @@ These are labs for **Python Data Analytics** course by [Elephant Scale](https://
 [Python Intro/](03-python-intro/)
 
 * 3.1 - [Types](03-python-intro/01-types.ipynb)
-* 3.2 - [Conditionals](03-python-intro/02-conditionals.ipynb)
-* 3.3 - [loops](03-python-intro/03-loops.ipynb)
-* 3.4 - [Comprehensions](03-python-intro/04-comprehensions.ipynb)
-* 3.5 - [Functions](03-python-intro/05-functions.ipynb)
-* 3.6 - [Strings](03-python-intro/06-string.ipynb)
+* 3.2 - [Data Structures](03-python-intro/02-data-structures.ipynb)
+* 3.3 - [Conditionals](03-python-intro/03-conditionals.ipynb)
+* 3.4 - [loops](03-python-intro/04-loops.ipynb)
+* 3.5 - [Comprehensions](03-python-intro/05-comprehensions.ipynb)
+* 3.6 - [Functions](03-python-intro/06-functions.ipynb)
+* 3.7 - [Strings](03-python-intro/07-string.ipynb)
 
 ## Resources
 
+* [Guided Machine Learning](https://github.com/elephantscale/guided-machine-learning) has a few good chapters in Data analytics
 * [TomasBeuzen/python-programming-for-data-science](https://github.com/TomasBeuzen/python-programming-for-data-science) - Really nice repository with great examples
