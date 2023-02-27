@@ -6,7 +6,7 @@
 *.bin
 *.html
 not-using/
-*.txt
+#*.txt
 *.gz
 *.csv
 *.idea
