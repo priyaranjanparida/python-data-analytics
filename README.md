@@ -17,29 +17,40 @@ Launch in Google colab [![Open In Colab](https://colab.research.google.com/asset
 [Client Testing the Dev Environment](http://go/dataanalyticspython/#DataAnalyticswithPython-TestingtheDevEnvironment)
 
 * Jupyter Notebooks
-    * 2.1 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
-    * 2.2 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
+    * TEST-1 - [Test Jupyter environment](01-dev-env-setup/testing-123.ipynb)
+    * TEST-2 - [hello jupyter](02-helloworld/hello-jupyter.ipynb)
 * REPL Environment
-    * 2.3 - [Hello world in Python interpretter](02-helloworld/REPL.md)
+    * TEST-3 - [Hello world in Python interpretter](02-helloworld/REPL.md)
 * Scripting / Editors
-    * 2.4 - [Hello world scripting](02-helloworld/Script.md)
+    * TEST-4 - [Hello world scripting](02-helloworld/Script.md)
 
 ### 03 - Python Intro
 
 [Python Intro/](03-python-intro/)
 
-* 3.1 - [Types](03-python-intro/01-types.ipynb)
-* 3.2 - [Data Structures](03-python-intro/02-data-structures.ipynb)
-* 3.3 - [Conditionals](03-python-intro/03-conditionals.ipynb)
-* 3.4 - [loops](03-python-intro/04-loops.ipynb)
-* 3.5 - [Comprehensions](03-python-intro/05-comprehensions.ipynb)
-* 3.6 - [Functions](03-python-intro/06-functions.ipynb)
-* 3.7 - [Strings](03-python-intro/07-string.ipynb)
+* PYTHON-1 - [Types](03-python-intro/01-types.ipynb)
+* PYTHON-2 - [Data Structures](03-python-intro/02-data-structures.ipynb)
+* PYTHON-3 - [Conditionals](03-python-intro/03-conditionals.ipynb)
+* PYTHON-4 - [loops](03-python-intro/04-loops.ipynb)
+* PYTHON-5 - [Comprehensions](03-python-intro/05-comprehensions.ipynb)
+* PYTHON-6 - [Functions](03-python-intro/06-functions.ipynb)
+* PYTHON-7 - [Strings](03-python-intro/07-string.ipynb)
 
 ### 04 - Numpy
 
-* 4.1 - [Numpy intro](04-numpy/numpy-1.ipynb)
-* 4.2 - Bonus - [Numpy exercises](https://github.com/elephantscale/guided-machine-learning/blob/master/python-data-analysis/np-1__numpy-intro.md)
+[Numpy/](04-numpy/)
+
+* NUMPY-1 - [Numpy intro](04-numpy/numpy-1.ipynb)
+* NUMPY-2 - Bonus - [Numpy exercises](https://github.com/elephantscale/guided-machine-learning/blob/master/python-data-analysis/np-1__numpy-intro.md)
+
+### 05 - Pandas
+
+[Pandas/](05-pandas/)
+
+* PANDAS-1 - [Pandas intro](05-pandas/pandas-1-intro.ipynb)
+* PANDAS-2 - [Slicing DF](05-pandas/pandas-2-slicing.ipynb)
+* PANDAS-3 - [Filter](05-pandas/pandas-3-filter.ipynb)
+* PANDAS-4 - [Groupby](05-pandas/pandas-4-groupby.ipynb)
 
 ## Resources
 
