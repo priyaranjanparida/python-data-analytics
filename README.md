@@ -48,9 +48,10 @@ Launch in Google colab [![Open In Colab](https://colab.research.google.com/asset
 [Pandas/](05-pandas/)
 
 * PANDAS-1 - [Pandas intro](05-pandas/pandas-1-intro.ipynb)
-* PANDAS-2 - [Slicing DF](05-pandas/pandas-2-slicing.ipynb)
+* PANDAS-2 - [Indexing DF](05-pandas/pandas-2-indexing.ipynb)
 * PANDAS-3 - [Filter](05-pandas/pandas-3-filter.ipynb)
 * PANDAS-4 - [Groupby](05-pandas/pandas-4-groupby.ipynb)
+* PANDAS-5 - [DF Operations](05-pandas/pandas-5-operations.ipynb)
 
 ## Resources
 
