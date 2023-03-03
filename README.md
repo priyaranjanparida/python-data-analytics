@@ -6,6 +6,13 @@ Launch with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybi
 
 Launch in Google colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elephantscale/python-data-analytics/)
 
+## Datasets
+
+Here are some datasets you can use
+
+- [Our curated datasets](https://github.com/elephantscale/datasets)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+
 ## Labs
 
 ### 01 - Setting up a Python Dev Environment
@@ -52,6 +59,19 @@ Launch in Google colab [![Open In Colab](https://colab.research.google.com/asset
 * PANDAS-3 - [Filter](05-pandas/pandas-3-filter.ipynb)
 * PANDAS-4 - [Groupby](05-pandas/pandas-4-groupby.ipynb)
 * PANDAS-5 - [DF Operations](05-pandas/pandas-5-operations.ipynb)
+* PANDAS-6 - [Data exploration - NYC flights](05-pandas/exercise-1-nycflights.ipynb)
+
+### 06 - Visualization
+
+[Visualization/](06-visualiazation)
+
+* [Visualization resources](06-visualization/README.md)
+* VIZ-1 - [Visualization intro](06-visualization/1-viz-intro.ipynb)
+* VIZ-2 - [Visualizing cars](06-visualization/2-plot-cars.ipynb)
+* VIZ-3 - [Pair plots](06-visualization/3-pair-plots.ipynb)
+* VIZ-4 - [Box and Violin plots](06-visualization/4-box-violin-plots.ipynb)
+* VIZ-5 - [Subplots](06-visualization/5-subplots.ipynb)
+
 
 ## Resources
 
