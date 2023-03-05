@@ -71,7 +71,12 @@ Here are some datasets you can use
 * VIZ-3 - [Pair plots](06-visualization/3-pair-plots.ipynb)
 * VIZ-4 - [Box and Violin plots](06-visualization/4-box-violin-plots.ipynb)
 * VIZ-5 - [Subplots](06-visualization/5-subplots.ipynb)
+* VIZ-6 - [Heatmap](06-visualization/6-heatmap-1-weather.ipynb)
 
+**Exercises**
+
+* [Visualize house sales](06-visualization/ex-1-visualize-house-sales.ipynb)
+* [Heatmap exercise](06-visualization/ex-3-heatmap-flights.ipynb)
 
 ## Resources
 
