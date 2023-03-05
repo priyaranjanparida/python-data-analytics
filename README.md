@@ -43,6 +43,11 @@ Here are some datasets you can use
 * PYTHON-6 - [Functions](03-python-intro/06-functions.ipynb)
 * PYTHON-7 - [Strings](03-python-intro/07-string.ipynb)
 
+**Exercises**
+
+* [ex-1](03-python-intro/ex-1.ipynb)
+* [ex-2](03-python-intro/ex-2.ipynb)
+
 ### 04 - Numpy
 
 [Numpy/](04-numpy/)
@@ -95,8 +100,10 @@ Here are some datasets you can use
 * Exercise [Cleanup diabetes dataset](07-data-wrangling/data-cleanup-diabetes.ipynb)
 
 
-### Data Exploration
+### 08 - Data Exploration
 
+* EXPLORATION-1 - [Explore hosue sales](08-exploration/explore-house-sales.ipynb)
+* EXPLORATION-2 - [Explore AirBnB data](08-exploration/airbnb_stays.ipynb)
 
 
 ## Resources
