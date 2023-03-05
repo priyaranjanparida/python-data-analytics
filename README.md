@@ -78,6 +78,27 @@ Here are some datasets you can use
 * [Visualize house sales](06-visualization/ex-1-visualize-house-sales.ipynb)
 * [Heatmap exercise](06-visualization/ex-3-heatmap-flights.ipynb)
 
+
+### 07 - Data Wrangling
+
+[Data wrangling](07-data-wrangling/)
+
+* WRANGLE-1 - [Dealing with unclean data](07-data-wrangling/1-data-cleanup-1.ipynb)
+* WRANGLE-2 - [Dealing with dates](07-data-wrangling/2-dates.ipynb)
+* WRANGLE-3 - [Dealing with duplicates](07-data-wrangling/3-duplicates.ipynb)
+* WRANGLE-4 - [Dealing with incorrect data](07-data-wrangling/4-incorrect_values.ipynb)
+* WRANGLE-5 - [Type conversions](07-data-wrangling/5-type_conversion.ipynb)
+* WRANGLE-6 - [Missingno pacakge](07-data-wrangling/6-missingno.ipynb)
+
+**Exercises**
+
+* Exercise [Cleanup diabetes dataset](07-data-wrangling/data-cleanup-diabetes.ipynb)
+
+
+### Data Exploration
+
+
+
 ## Resources
 
 * [Guided Machine Learning](https://github.com/elephantscale/guided-machine-learning) has a few good chapters in Data analytics
