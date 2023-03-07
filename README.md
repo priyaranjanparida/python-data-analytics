@@ -1,4 +1,4 @@
-# Python Data Analytcs
+# Python Data Analytics
 
 These are labs for **Python Data Analytics** course by [Elephant Scale](https://elephantscale.com/)
 
