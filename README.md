@@ -102,7 +102,7 @@ Here are some datasets you can use
 
 ### 08 - Data Exploration
 
-* EXPLORATION-1 - [Explore hosue sales](08-exploration/explore-house-sales.ipynb)
+* EXPLORATION-1 - [Explore house sales](08-exploration/explore-house-sales.ipynb)
 * EXPLORATION-2 - [Explore AirBnB data](08-exploration/airbnb_stays.ipynb)
 
 
